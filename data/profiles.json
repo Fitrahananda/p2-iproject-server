@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Son Goku",
+    "gender": "male",
+    "age": "45",
+    "phoneNumber": "123456",
+    "address": "namek",
+    "photoProfile": "SonGoku.png",
+    "UserId": 1
+  },
+  {
+    "name": "Violet Evergarden",
+    "gender": "female",
+    "age": "17",
+    "phoneNumber": "2022",
+    "address": "england",
+    "photoProfile": "violet.jpg",
+    "UserId": 2
+  },
+  {
+    "name": "Mikasa Ackerman",
+    "gender": "female",
+    "age": "19",
+    "phoneNumber": "1999212",
+    "address": "Paradise",
+    "photoProfile": "mikasa.jpg",
+    "UserId": 3
+  },
+  {
+    "name": "Nezuko Kamado",
+    "gender": "female",
+    "age": "16",
+    "phoneNumber": "19911119212",
+    "address": "living with brother",
+    "photoProfile": "nezuko.jpg",
+    "UserId": 4
+  },
+  {
+    "name": "Komi Shouko",
+    "gender": "female",
+    "age": "17",
+    "phoneNumber": "1111",
+    "address": "Home",
+    "photoProfile": "komi.jpg",
+    "UserId": 5
+  },
+  {
+    "name": "Marin Kitagawa",
+    "gender": "female",
+    "age": "17",
+    "phoneNumber": "242424",
+    "address": "alone",
+    "photoProfile": "marin.jpg",
+    "UserId": 6
+  }
+]
